@@ -3,7 +3,7 @@ from pprint import pprint
 from typing import Counter
 
 PATH = "./assignment.csv"
-FALLBACK_DATASET = 30
+FALLBACK_DATASET = 9
 HW1B_DATASETS = {0, 1, 5, 7, 8, 9, 18, 21, 22, 24, 27, 28}
 
 
