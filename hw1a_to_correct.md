@@ -1,34 +1,34 @@
-# MY_DATASET = [26, 27, 28, 29]
-0. `freitasgoncalves.2128459`: 25, 28
-1. `raschiatore.2071132`: Task_2 ,Task_24 ,Task_26(Distractor task)
-2. `gallo.1895146`: ITAmoji (task 20), Hypernym Discovery (task 26)
-3. `nocera.1863075`: 12(individual),27,12(distractors)
-4. `Renzi.1887793`: 12, 27
-5. `berardo.1814724`: 7, 28
-6. `branca.1965733`: 1, 7, 26
-7. `caracci.1915689`: 24, 26
-8. `crisa.2143080`: 12, 28
-9. `durso.2143081`: 15,27
-10. `marzo.1858001`: 24 26
-11. `santini.1843552`: 25, 28
-12. `panetta.1950468`: 0, 29
-13. `monteleone.1883922`: 23, 26
-14. `cardullo.2127806`: 0, 26
-15. `karakaya.2162527`: task-19-absita, task-28-pretens, task-23-postwita
-16. `belli.1849294`: Task 19, Task 26
-17. `paoluzzi.1743773`: 26, 29
-18. `paoluzzi.1743773`: 26, 29
-19. `lin.1859599`: 23, 29
-20. `lombardi.1883998`: Task 26 and task 29
-21. `lombardi.1883998`: Task 26 and task 29
-22. `pisano.1959863`: 9, 25, 26
-23. `javid.2047305`: 29, 12
-24. `spagnoli.1887715`: 12, 28, 29
-25. `spagnoli.1887715`: 12, 28, 29
-26. `cakoni.1985088`: 18,26
-27. `cutroni.1918336`: 21, 27
-28. `reinseth.2125171`: 0, 26 (EmoITA, SemEval)
-29. `aursand.2121100`: 2, 26
-30. `aur.1809715`: Task 26: Hypernym Discorvery, Task 4: Word-in-Context (WiC) Disambiguation
-31. `meconi.1838058`: 23, 27
-32 homeworks to correct.
+# TO CORRECT [26, 27, 28, 29]
+0. `freitasgoncalves.2128459`: [25, 28](https://drive.google.com/drive/folders/1m4ESJB2Wu3Wi2wxXXqg5TU9bep9Wr_nX?usp=drive_link)
+1. `raschiatore.2071132`: [Task_2 ,Task_24 ,Task_26(Distractor task)](https://drive.google.com/file/d/1PbLRK9iiDpxeftNUeI_l5XIRNxvJFNFO/view?usp=sharing)
+2. `gallo.1895146`: [ITAmoji (task 20), Hypernym Discovery (task 26)](https://drive.google.com/file/d/1aE21WXnMLueR6tkuG4ZmOSTdlSOcVmKT/view?usp=sharing)
+3. `nocera.1863075`: [12(individual),27,12(distractors)](https://drive.google.com/file/d/1SeeN0ihPalqMEDBM7OwS6SA6vjdGYpiy/view?usp=sharing)
+4. `Renzi.1887793`: [12, 27](https://drive.google.com/file/d/16XmM6EW4fMIVF1Sw1dwUH7SD8vJyqZb7/view?usp=sharing)
+5. `berardo.1814724`: [7, 28](https://drive.google.com/drive/folders/14VuG_gqkmnXCM2mKb-MLWerqfPSZRiJa?usp=sharing)
+6. `branca.1965733`: [1, 7, 26](https://drive.google.com/file/d/102pc4kRGzfD-cu6_8NogjHgjOxKqSYrT/view?usp=sharing)
+7. `caracci.1915689`: [24, 26](https://drive.google.com/file/d/1YKbXjaHF_LibrOj3PMYrif4n2JYufDvM/view?usp=sharing)
+8. `crisa.2143080`: [12, 28](https://drive.google.com/file/d/1yK2KkEXWuXLL4z2Da_5ZjFPvRWbpYLQu/view?usp=sharing)
+9. `durso.2143081`: [15,27](https://drive.google.com/file/d/1NG1PPrOmL7NTI_WCK7Aar9FrCYG4hdwN/view?usp=sharing)
+10. `marzo.1858001`: [24 26](https://drive.google.com/drive/folders/1oipZdURYdkfheRlskbLOsaQdyY7EvAfU?usp=sharing)
+11. `santini.1843552`: [25, 28](https://drive.google.com/drive/folders/13rwvLTg_C1YkUVN3g8hFGEJNjuTklXZm?usp=drive_link)
+12. `panetta.1950468`: [0, 29](https://drive.google.com/file/d/1Q_ibNGyA1vuPFiJcKDev3CZ4agujCnPS/view?usp=sharing)
+13. `monteleone.1883922`: [23, 26](https://drive.google.com/file/d/1Sq5UByLoIE9CgZ0lXZV7tz6MfeEOEr6Q/view?usp=sharing)
+14. `cardullo.2127806`: [0, 26](https://drive.google.com/file/d/1eVHUnaQrn6USO7F9P-uuuqo_Q3w991kE/view?usp=sharing)
+15. `karakaya.2162527`: [task-19-absita, task-28-pretens, task-23-postwita](https://drive.google.com/file/d/1-IrlBIwctpsjuWcAp8WxzPli29GjfxrK/view?usp=sharing)
+16. `belli.1849294`: [Task 19, Task 26](https://drive.google.com/drive/folders/16z_8mf48fObhlXMX8hZ85Xm1kXloBd18?usp=sharing)
+17. `paoluzzi.1743773`: [26, 29](https://drive.google.com/file/d/12V4EODCt_HZpAw7Bk5T5hrNMVV66N6EB/view?usp=sharing)
+18. `paoluzzi.1743773`: [26, 29](https://drive.google.com/file/d/12V4EODCt_HZpAw7Bk5T5hrNMVV66N6EB/view?usp=sharing)
+19. `lin.1859599`: [23, 29](https://drive.google.com/file/d/1MGnoe0VHrPxy06q7gHKsni61iKBFwgat/view?usp=sharing)
+20. `lombardi.1883998`: [Task 26 and task 29](https://drive.google.com/file/d/1YpbmlHkcCRHC3JQ9II670SdRm_GANRu8/view?usp=sharing)
+21. `lombardi.1883998`: [Task 26 and task 29](https://drive.google.com/file/d/1YpbmlHkcCRHC3JQ9II670SdRm_GANRu8/view?usp=sharing)
+22. `pisano.1959863`: [9, 25, 26](https://drive.google.com/file/d/1xeR8BKafDQ5GfjYwFuBw9tiGJiVxJNGa/view?usp=drive_link)
+23. `javid.2047305`: [29, 12](https://drive.google.com/drive/folders/1bObQWHHWSIyFoZAOl2N4BsNfgF_eBvFm)
+24. `spagnoli.1887715`: [12, 28, 29](https://drive.google.com/file/d/12ax8CNXBuRec_aVW5eU0SXdz_U94d94a/view?usp=sharing)
+25. `spagnoli.1887715`: [12, 28, 29](https://drive.google.com/file/d/12ax8CNXBuRec_aVW5eU0SXdz_U94d94a/view?usp=sharing)
+26. `cakoni.1985088`: [18,26](https://drive.google.com/file/d/1thvIzRMKs5CfXLP2QAoXK2ZwmMjlnV0x/view?usp=sharing)
+27. `cutroni.1918336`: [21, 27](https://drive.google.com/file/d/1j93AVueqYCBUDZh9aQu5BzinC9SfUEcX/view?usp=drive_link)
+28. `reinseth.2125171`: [0, 26 (EmoITA, SemEval)](https://drive.google.com/drive/folders/1AJ3erEeETGw2meHeQAqEFkTr_z12UjuC?usp=drive_link)
+29. `aursand.2121100`: [2, 26](https://drive.google.com/drive/folders/1wMNg3EDonpevp-rPzreE-7KlNGOhzFZx?usp=share_link)
+30. `aur.1809715`: [Task 26: Hypernym Discorvery
+Task 4: Word-in-Context (WiC) Disambiguation](https://drive.google.com/file/d/1xn-XLuhcGgo6N1pkbygqwYp-hAQ_IDlQ/view?usp=sharing)
+31. `meconi.1838058`: [23, 27](https://drive.google.com/file/d/1CHk_VyN-_onqi6gzHoZicWFJJBYfGhRp/view?usp=sharing)
