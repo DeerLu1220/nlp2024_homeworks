@@ -3,7 +3,7 @@
 After having put in the root folder of the repo the `.csv` file containing the list of students and their assigned datasets, run:
 
 ```bash
-python main.py
+python rebalance_datasets_hw1b.py
 ```
 
 The `.csv` schema should be as follow:
