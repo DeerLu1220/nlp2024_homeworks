@@ -1,8 +1,7 @@
 # TO CORRECT [26, 27, 28, 29]
-- [ ] `aur.1809715`: [Task 26: Hypernym Discorvery
-Task 4: Word-in-Context (WiC) Disambiguation](https://drive.google.com/file/d/1xn-XLuhcGgo6N1pkbygqwYp-hAQ_IDlQ/view?usp=sharing)
-- [ ] `aursand.2121100`: [2, 26](https://drive.google.com/drive/folders/1wMNg3EDonpevp-rPzreE-7KlNGOhzFZx?usp=share_link)
-- [ ] `belli.1849294`: [Task 19, Task 26](https://drive.google.com/drive/folders/16z_8mf48fObhlXMX8hZ85Xm1kXloBd18?usp=sharing)
+- [x] `aur.1809715`: [Task 26: Hypernym Discorvery, Task 4: Word-in-Context (WiC) Disambiguation](https://drive.google.com/file/d/1xn-XLuhcGgo6N1pkbygqwYp-hAQ_IDlQ/view?usp=sharing)
+- [x] `aursand.2121100`: [2, 26](https://drive.google.com/drive/folders/1wMNg3EDonpevp-rPzreE-7KlNGOhzFZx?usp=share_link)
+- [x] `belli.1849294`: [Task 19, Task 26](https://drive.google.com/drive/folders/16z_8mf48fObhlXMX8hZ85Xm1kXloBd18?usp=sharing)
 - [ ] `berardo.1814724`: [7, 28](https://drive.google.com/drive/folders/14VuG_gqkmnXCM2mKb-MLWerqfPSZRiJa?usp=sharing)
 - [ ] `branca.1965733`: [1, 7, 26](https://drive.google.com/file/d/102pc4kRGzfD-cu6_8NogjHgjOxKqSYrT/view?usp=sharing)
 - [ ] `cakoni.1985088`: [18,26](https://drive.google.com/file/d/1thvIzRMKs5CfXLP2QAoXK2ZwmMjlnV0x/view?usp=sharing)

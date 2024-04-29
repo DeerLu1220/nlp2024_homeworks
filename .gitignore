@@ -1,2 +1,4 @@
 *.csv
 students_submissions/
+original_datasets/
+.obsidian
