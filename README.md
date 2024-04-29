@@ -1,3 +1,8 @@
+# hw1a
+Get the cookies for the drive page otherwise the script doesn't work (see [official gdwon page](https://pypi.org/project/gdown/))
+You also need the evaluation `.csv` in the root folder.
+
+
 # hw1b_nlp2024
 
 After having put in the root folder of the repo the `.csv` file containing the list of students and their assigned datasets, run:
