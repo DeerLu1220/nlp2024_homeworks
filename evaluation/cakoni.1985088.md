@@ -11,8 +11,8 @@
 - [ ] The instructions to run your code and any other information you think it will be useful for us
 ---
 ## Data - 0 points
-- train data missing 255 entries (**-0.5**)
-- test data missing 204 entries (**-0.5**)
+- train data missing 255 entries (**-1**)
+- test data missing 204 entries (**-1**)
 - generated data contains non-italian words and numbers (**-0.5**)
 - correct label always `0`
 ## Code - 2 points
